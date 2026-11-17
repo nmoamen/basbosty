@@ -1,0 +1,11 @@
+Music used in this project
+
+Track: Soft Piano ASMR — Romantic Whispers of Love
+Artist/uploader: Music-for-Videos (Whispering Embrace)
+Source: https://pixabay.com/music/modern-classical-soft-piano-asmr-romantic-whispers-of-love-by-whispering-embrace-301735/
+License: Pixabay Content License (downloaded by the project owner).
+Local file: public/music/whispers-of-love.mp3
+
+Playback behavior: the track starts when the visitor clicks the “افتحي هديتك” button. It loops continuously. The on-page music control can pause/resume playback and adjust volume.
+
+Keep this credit file with the project and retain the original download/license information.
